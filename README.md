@@ -5,6 +5,10 @@ An art project built with a Raspberry Pi Pico, a DC motor, and an H-bridge drive
 ![demo](VID_first5s.gif)
 ![demo](VID_10s_20s.gif)
 
+## Mechanical inspiration
+
+![inspiration](Video1-1.gif)
+
 ## Hardware
 
 - Raspberry Pi Pico
